@@ -60,7 +60,7 @@ build/
 *_i.c
 *_p.c
 *.ilk
-*.meta
+#Unity uses these *.meta
 *.obj
 *.pch
 *.pdb
@@ -216,3 +216,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+Library
