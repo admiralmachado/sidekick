@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\GSXPCam.js" />
      <Compile Include="Assets\Scripts\NPCMovement.js" />
      <Compile Include="Assets\Scripts\SidekickMovement.js" />
+     <Compile Include="Assets\Scripts\Stats.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

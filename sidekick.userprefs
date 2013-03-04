@@ -1,14 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\Workspaces\WorkspaceAssets\HeroDoorExplorerController.js">
-    <Files>
-      <File FileName="Assets\Scenes\Workspaces\WorkspaceAssets\HeroDoorExplorerController.js" Line="3" Column="112" />
-      <File FileName="Assets\Scripts\DoorController.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SidekickMovement.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\NPCMovement.js" Line="34" Column="3" />
-      <File FileName="Assets\Scripts\GSXPCam.js" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

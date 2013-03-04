@@ -23,6 +23,7 @@ function incoming(object : GameObject) {
 	inboundObjects.Add(object);
 }
 
+// GSXPCamera calls this when it arrives in the new room
 function arrived() {
 	for each (var object in inboundObjects) {
 		if (object.name == "Sidekick") {
@@ -31,6 +32,7 @@ function arrived() {
 		}
 	}
 	
+	// Sanity Check
 	print("Hey you called arrived on a door but the sidekick isn't here!");
 }
 
