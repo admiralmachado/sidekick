@@ -44,8 +44,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scenes\Workspaces\WorkspaceAssets\HeroDoorExplorerController.js" />
      <Compile Include="Assets\Scripts\DoorController.js" />
+     <Compile Include="Assets\Scripts\FaceDirection.js" />
      <Compile Include="Assets\Scripts\GSXPCam.js" />
+     <Compile Include="Assets\Scripts\NPCMovement.js" />
      <Compile Include="Assets\Scripts\SidekickMovement.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
