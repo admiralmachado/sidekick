@@ -56,6 +56,7 @@
      <Compile Include="Assets\Scripts\GSXPCam.js" />
      <Compile Include="Assets\Scripts\HitList.js" />
      <Compile Include="Assets\Scripts\NPCMovement.js" />
+     <Compile Include="Assets\Scripts\RoomController.js" />
      <Compile Include="Assets\Scripts\SidekickMovement.js" />
      <Compile Include="Assets\Scripts\Stats.js" />
   </ItemGroup>
