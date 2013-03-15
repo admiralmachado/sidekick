@@ -8,7 +8,7 @@ function Start () {
 	} else if (whoami == "Hero") {
 		loadStats(100, 10, 2.0, X, 5);
 	} else if (whoami == "Mob") {
-		loadStats(50, 5, 0.66, X, 3);
+		loadStats(50, 5, 0.66, X, 5);
 	} else {
 		print("Whoa! Stats here! I don't know how to handle " + whoami);
 		loadStats(0, 0, 0, 0, 0);
